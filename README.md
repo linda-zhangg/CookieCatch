@@ -1,2 +1,2 @@
 # CookieCatch
-First-year university project for Computer Graphics. Made on Processing (java).
+2D graphics game intended for children. Made on Processing (java).
