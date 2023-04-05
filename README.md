@@ -1,2 +1,2 @@
 # CookieCatch
-2D graphics game intended for children. Made on Processing (java).
+2D graphics game. Made on Processing (java). 💙
